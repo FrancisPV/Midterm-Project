@@ -6,6 +6,8 @@ Click on a resource to view it on a new page. Users can favourite the post and a
 
 Users can view their saved resources on the My Resources page, and update their profile on the My Profile page.
 
+Created with the help of Léo Mckenna and Alyssa Beaton Tanguay.
+
 
 ## Teacherest screenshots
 
